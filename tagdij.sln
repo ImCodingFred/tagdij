@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tagdij", "tagdij\tagdij.csproj", "{16CF8182-69B8-44C4-A21D-A58A4BB4B352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CF8182-69B8-44C4-A21D-A58A4BB4B352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CF8182-69B8-44C4-A21D-A58A4BB4B352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CF8182-69B8-44C4-A21D-A58A4BB4B352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CF8182-69B8-44C4-A21D-A58A4BB4B352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C32365A6-5E88-44BE-BA16-7A157FB619E2}
+	EndGlobalSection
+EndGlobal
